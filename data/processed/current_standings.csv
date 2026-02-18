@@ -1,0 +1,19 @@
+position,team_id,team_name,short_name,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,form
+1,64,Liverpool,LIV,25,18,5,2,60,24,36,59,WWWDW
+2,65,Manchester City,MCI,25,14,5,6,55,30,25,47,WDLWW
+3,66,Manchester United,MUN,25,13,6,6,45,32,13,45,WDWWW
+4,67,Tottenham Hotspur,TOT,25,12,5,8,50,35,15,41,LWWDL
+5,73,Arsenal,ARS,25,11,8,6,48,34,14,41,DWDWD
+6,1044,Newcastle United,NEW,25,12,4,9,42,38,4,40,WWLLW
+7,351,Nottingham Forest,NFO,25,11,6,8,38,35,3,39,DWWLW
+8,328,Chelsea,CHE,25,10,7,8,40,38,2,37,WDLWD
+9,397,Brighton,BHA,25,9,8,8,38,37,1,35,DDWDL
+10,354,Crystal Palace,CRY,25,8,8,9,32,35,-3,32,DDLWD
+11,402,Brentford,BRE,25,8,6,11,36,40,-4,30,LDLWL
+12,394,Wolverhampton,WOL,25,7,8,10,30,38,-8,29,WDLDL
+13,349,Ipswich Town,IPS,25,7,6,12,28,42,-14,27,LLWDL
+14,76,West Bromwich Albion,WBA,25,6,8,11,26,40,-14,26,DLLWD
+15,356,Sheffield United,SHE,25,6,7,12,24,42,-18,25,WLDLL
+16,340,Southampton,SOU,25,6,5,14,22,45,-23,23,LLWDL
+17,563,AFC Bournemouth,BOU,25,5,7,13,24,48,-24,22,DLLLD
+18,68,Norwich City,NOR,25,4,6,15,20,50,-30,18,LLDLL
