@@ -8,7 +8,7 @@ from typing import Dict, List, Tuple
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import config
-from train_model import MatchPredictor
+from models.train_model import MatchPredictor
 
 
 class PredictionEngine:

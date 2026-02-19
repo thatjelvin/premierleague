@@ -258,11 +258,11 @@ class DataFetcher:
         # Sample team data
         teams_data = {
             'team_id': [64, 65, 66, 67, 68, 73, 76, 349, 351, 354, 356, 397, 402, 563, 1044, 328, 340, 394],
-            'team_name': ['Liverpool', 'Manchester City', 'Manchester United', 'Tottenham',
-                         'Norwich', 'Tottenham', 'West Brom', 'Ipswich Town', 'Nottingham Forest',
+            'team_name': ['Liverpool', 'Manchester City', 'Manchester United', 'Tottenham Hotspur',
+                         'Norwich City', 'Arsenal', 'West Bromwich Albion', 'Ipswich Town', 'Nottingham Forest',
                          'Crystal Palace', 'Sheffield United', 'Brighton', 'Brentford', 'AFC Bournemouth',
                          'Newcastle United', 'Chelsea', 'Southampton', 'Wolverhampton'],
-            'short_name': ['LIV', 'MCI', 'MUN', 'TOT', 'NOR', 'TOT', 'WBA', 'IPS', 'NOT',
+            'short_name': ['LIV', 'MCI', 'MUN', 'TOT', 'NOR', 'ARS', 'WBA', 'IPS', 'NOT',
                           'CRY', 'SHE', 'BHA', 'BRE', 'BOU', 'NEW', 'CHE', 'SOU', 'WOL']
         }
 
